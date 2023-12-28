@@ -1,3 +1,4 @@
+test
 [![Regress Olympia on Ubuntu](https://github.com/riscv-software-src/riscv-perf-model/actions/workflows/ubuntu-build.yml/badge.svg)](https://github.com/riscv-software-src/riscv-perf-model/actions/workflows/ubuntu-build.yml)
 
 # olympia
